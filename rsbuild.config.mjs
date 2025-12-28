@@ -114,7 +114,7 @@ export default defineConfig({
         meta: {
             'og:image': {
                 property: 'og:image',
-                content: './src/assets/images/bg-image.png'
+                content: '/bg-image.png'
             }
         }
     },
